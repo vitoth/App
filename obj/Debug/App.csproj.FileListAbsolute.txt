@@ -1,0 +1,11 @@
+I:\SekomZadatak\App\App\bin\App.dll.config
+I:\SekomZadatak\App\App\bin\App.dll
+I:\SekomZadatak\App\App\bin\App.pdb
+I:\SekomZadatak\App\App\obj\Debug\App.dll
+I:\SekomZadatak\App\App\obj\Debug\App.pdb
+I:\Sekom nedobršeni\App\bin\App.dll.config
+I:\Sekom nedobršeni\App\bin\App.dll
+I:\Sekom nedobršeni\App\bin\App.pdb
+I:\Sekom nedobršeni\App\obj\Debug\App.dll
+I:\Sekom nedobršeni\App\obj\Debug\App.pdb
+I:\Sekom nedobršeni\App\obj\Debug\App.csprojResolveAssemblyReference.cache
